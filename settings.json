@@ -1,0 +1,8 @@
+{
+    "admins": [
+        <user-id's of the admins>
+    ],
+    "bot_token": "<bottoken from botfather>",
+    "yt-dl_path": "<path to the youtube-dl 'executable'>",
+    "downloaddir": "<path to the destination folder>"
+}
